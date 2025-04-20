@@ -1,0 +1,6 @@
+1,Manuel,Pérez,123456789,a@a.es
+2,Antonia,Martínez,323234234,b@a.es
+3,Josefina,Ruiz,987654321,c@a.es
+4,Daniel,Sánchez,000999888,d@d.es
+5,Daniel,Sánchez,000999888,d@d.es
+6,Daniel,Sánchez,000999888,d@d.es

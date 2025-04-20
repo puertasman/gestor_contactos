@@ -1,0 +1,1 @@
+contacto.escribir_contacto()
